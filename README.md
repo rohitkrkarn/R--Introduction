@@ -1,2 +1,2 @@
-# R--Introduction
-To begin with R
+# Statistical Analytics App using R
+
